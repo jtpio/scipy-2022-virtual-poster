@@ -20,7 +20,7 @@ jobs:
         shell: bash -l {0}
         run: |
           cp README.md content
-          jupyter lite build --contents content --lite-dir docs --output-dir dist
+          jupyter lite build --lite-dir docs --output-dir dist
       - name: Upload (dist)
         uses: actions/upload-artifact@v2
         with:
