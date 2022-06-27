@@ -4,13 +4,11 @@ channels:
   - conda-forge
 
 dependencies:
-  - ipywidgets
   - mamba
   - pydata-sphinx-theme
   - empack
 
   - pip:
-    - jupyterlite
     - jupyterlite-sphinx
     - jupyterlite-xeus-python>=0.5
-    - jupyterlab-night
+    - -r ../requirements.txt
