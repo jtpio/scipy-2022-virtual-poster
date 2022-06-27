@@ -1,6 +1,6 @@
 {
     "LiteBuildConfig": {
-        "contents": ["../content"]
+        "contents": ["content"]
     },
     "XeusPythonEnv": {
         "packages": ["numpy", "ipywidgets"]

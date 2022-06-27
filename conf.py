@@ -3,7 +3,7 @@ extensions = [
     'jupyterlite_sphinx'
 ]
 
-jupyterlite_config = "jupyterlite_config.json"
+jupyterlite_config = "jupyter_lite_config.json"
 jupyterlite_dir = "."
 jupyterlite_contents = ["../content/"]
 
