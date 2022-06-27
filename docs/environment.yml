@@ -1,0 +1,16 @@
+name: scipy-2022-jupyterlite-poster
+
+channels:
+  - conda-forge
+
+dependencies:
+  - ipywidgets
+  - mamba
+  - pydata-sphinx-theme
+  - empack
+
+  - pip:
+    - jupyterlite
+    - jupyterlite-sphinx
+    - jupyterlite-xeus-python
+    - jupyterlab-night
