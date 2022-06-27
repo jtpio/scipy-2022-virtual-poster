@@ -12,5 +12,5 @@ dependencies:
   - pip:
     - jupyterlite
     - jupyterlite-sphinx
-    - jupyterlite-xeus-python
+    - jupyterlite-xeus-python>=0.5
     - jupyterlab-night
