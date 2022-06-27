@@ -26,5 +26,4 @@ dependencies:
   - jupyterlite-sphinx
   - jupyterlite-xeus-python>=0.5
   - jupyterlite==0.1.0b10
-  - jupyterlite-p5-kernel==0.1.0a12
   - jupyterlite-xeus-sqlite==0.2.1
