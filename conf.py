@@ -7,7 +7,7 @@ extensions = [
 jupyterlite_config = "jupyter_lite_config.json"
 jupyterlite_dir = "."
 
-master_doc = 'index'
+master_doc = 'README'
 source_suffix = '.md'
 
 # General information about the project.
