@@ -1,9 +1,13 @@
 {
   "jupyter-config-data": {
-    "appName": "JupyterLite",
+    "appName": "SciPy 2022 JupyterLite Virtual Poster",
     "appUrl": "./lab",
     "appVersion": "0.1.0-beta.10",
     "baseUrl": "./",
+    "disabledExtensions": [
+      "@jupyterlite/javascript-kernel-extension",
+      "@jupyterlite/pyolite-kernel-extension"
+    ],
     "faviconUrl": "./lab/favicon.ico",
     "federated_extensions": [
       {
@@ -29,15 +33,8 @@
       {
         "extension": "./extension",
         "liteExtension": true,
-        "load": "static/remoteEntry.4ba93726087006d2f61b.js",
-        "name": "@jupyterlite/p5-kernel-extension",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.f69e84c5aaec83c179ca.js",
-        "name": "@jupyterlite/xeus-lua-kernel",
+        "load": "static/remoteEntry.fd96a7785895390646ce.js",
+        "name": "@jupyterlite/xeus-python-kernel",
         "style": "./style"
       },
       {
@@ -46,25 +43,6 @@
         "load": "static/remoteEntry.960d5d0f875a651e597f.js",
         "name": "@jupyterlite/xeus-sqlite-kernel",
         "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": true,
-        "load": "static/remoteEntry.6e7c2ba8038680301a15.js",
-        "name": "@jupyterlite/xeus-wren-kernel",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.bf6b3192a558615425cd.js",
-        "name": "@telamonian/theme-darcula"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.145e469029155b53b350.js",
-        "name": "@timkpaine/jupyterlab_miami_nights"
       },
       {
         "extension": "./extension",
@@ -93,22 +71,14 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.509ecd914d0df11eb8e1.js",
+        "load": "static/remoteEntry.6a761b1842f6f2e31f74.js",
         "name": "jupyter-matplotlib"
       },
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.a7ffe26201ed2eee8505.js",
-        "name": "jupyter-wren-syntax",
-        "style": "./style"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.8f896d6ad92823566c46.js",
-        "name": "jupyterlab-drawio",
-        "style": "./style"
+        "load": "static/remoteEntry.71811c09716855d6f4e0.js",
+        "name": "jupyterlab-night"
       },
       {
         "extension": "./extension",
