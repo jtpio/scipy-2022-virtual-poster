@@ -3,6 +3,6 @@
         "contents": ["content"]
     },
     "XeusPythonEnv": {
-        "packages": ["numpy", "ipywidgets"]
+        "packages": ["numpy", "ipywidgets", "pandas"]
     }
 }
