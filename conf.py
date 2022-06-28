@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 extensions = [
+    'myst_parser',
     'jupyterlite_sphinx'
 ]
 
@@ -7,7 +8,7 @@ jupyterlite_config = "jupyter_lite_config.json"
 jupyterlite_dir = "."
 
 master_doc = 'index'
-source_suffix = '.rst'
+source_suffix = '.md'
 
 # General information about the project.
 project = 'scipy-2022-jupyterlite-virtual-poster'
