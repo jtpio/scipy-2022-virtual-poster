@@ -5,7 +5,6 @@
     "XeusPythonEnv": {
         "packages": [
             "altair",
-            "folium",
             "bqplot",
             "ipycanvas",
             "ipympl",
