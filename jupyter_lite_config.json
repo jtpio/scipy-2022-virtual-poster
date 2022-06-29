@@ -15,7 +15,8 @@
             "numpy",
             "ipywidgets",
             "pandas",
-            "pyb2d"
+            "pyb2d",
+            "vega_datasets"
         ]
     }
 }
