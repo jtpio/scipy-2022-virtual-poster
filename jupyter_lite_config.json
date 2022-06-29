@@ -3,6 +3,19 @@
         "contents": ["content"]
     },
     "XeusPythonEnv": {
-        "packages": ["numpy", "ipywidgets", "pandas"]
+        "packages": [
+            "altair",
+            "folium",
+            "bqplot",
+            "ipycanvas",
+            "ipympl",
+            "ipyleaflet",
+            "matplotlib",
+            "plotly>=5.3,<6",
+            "numpy",
+            "ipywidgets",
+            "pandas",
+            "pyb2d"
+        ]
     }
 }
