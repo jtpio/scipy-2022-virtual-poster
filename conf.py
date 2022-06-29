@@ -11,7 +11,7 @@ master_doc = 'README'
 source_suffix = '.md'
 
 # General information about the project.
-project = 'scipy-2022-jupyterlite-virtual-poster'
+project = 'SciPy 2022 Jupyterlite Virtual Poster'
 author = 'Jeremy Tuloup'
 
 exclude_patterns = []
