@@ -23,6 +23,7 @@ dependencies:
 - jupyterlab-tour
 - jupyterlab-night
 - plotly>=5,<6
+- sympy
 - pip:
   - jupyterlite-sphinx
   - jupyterlite-xeus-python>=0.5
