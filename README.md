@@ -27,7 +27,7 @@ website of popular scientific libraries:
 
 With `jupyterlite-sphinx` it's possible to embed a Notebook in a documentation website:
 
-```{retrolite} python.ipynb
+```{retrolite} content/python.ipynb
   :width: 100%
   :height: 600px
 ```
