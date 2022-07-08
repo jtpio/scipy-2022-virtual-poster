@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.625235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "ipycanvas.ipynb",
+      "path": "notebooks/ipycanvas.ipynb",
+      "size": 4859,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.629235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "renderers.ipynb",
+      "path": "notebooks/renderers.ipynb",
+      "size": 1711,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.629235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "plotly.ipynb",
+      "path": "notebooks/plotly.ipynb",
+      "size": 3174,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.625235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "interactive-widgets.ipynb",
+      "path": "notebooks/interactive-widgets.ipynb",
+      "size": 5583,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.625235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "ipyleaflet.ipynb",
+      "path": "notebooks/ipyleaflet.ipynb",
+      "size": 5786,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.625235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "folium.ipynb",
+      "path": "notebooks/folium.ipynb",
+      "size": 5078,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.625235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "altair.ipynb",
+      "path": "notebooks/altair.ipynb",
+      "size": 5186,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T07:48:16.629235Z",
+      "format": null,
+      "last_modified": "2022-07-08T07:46:58.191993Z",
+      "mimetype": null,
+      "name": "matplotlib.ipynb",
+      "path": "notebooks/matplotlib.ipynb",
+      "size": 36955,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-08T07:48:16.629235Z",
+  "format": "json",
+  "last_modified": "2022-07-08T07:48:16.629235Z",
+  "mimetype": null,
+  "name": "notebooks",
+  "path": "notebooks",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
