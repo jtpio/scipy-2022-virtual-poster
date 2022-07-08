@@ -6,6 +6,7 @@ extensions = [
 
 jupyterlite_config = "jupyter_lite_config.json"
 jupyterlite_dir = "."
+jupyterlite_contents = "content"
 
 master_doc = 'README'
 source_suffix = '.md'
