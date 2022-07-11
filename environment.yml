@@ -28,5 +28,5 @@ dependencies:
 - pip:
   - jupyterlite-sphinx
   - jupyterlite-xeus-python>=0.5
-  - jupyterlite==0.1.0b10
+  - jupyterlite==0.1.0b11
   - jupyterlite-xeus-sqlite==0.2.1
