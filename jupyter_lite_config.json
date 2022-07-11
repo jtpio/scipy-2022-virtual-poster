@@ -6,6 +6,7 @@
         "packages": [
             "altair",
             "bqplot",
+            "ipydatagrid",
             "ipycanvas",
             "ipympl",
             "ipyleaflet",
