@@ -59,6 +59,12 @@
       {
         "extension": "./extension",
         "liteExtension": false,
+        "load": "static/remoteEntry.d84718fc16dbbdba91ee.js",
+        "name": "ipydatagrid"
+      },
+      {
+        "extension": "./extension",
+        "liteExtension": false,
         "load": "static/remoteEntry.176149dcbfb677ea36fb.js",
         "name": "ipyevents"
       },
