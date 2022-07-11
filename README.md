@@ -1,4 +1,4 @@
-# Scipy 2022 - JupyterLite Virtual Poster
+# SciPy 2022 - JupyterLite Virtual Poster
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge-launch.svg)](https://scipy-2022-jupyterlite-virtual-poster.readthedocs.io/en/latest/lite/lab/index.html?path=intro.ipynb)
 
